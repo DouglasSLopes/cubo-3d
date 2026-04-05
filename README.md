@@ -157,7 +157,7 @@ Para a pasta de saída do projeto:
 
 ---
 
-## 🔧 Solução de Problemas
+## Solução de Problemas
 
 **Erro: `não é possível abrir o arquivo 'freeglut.lib'`**
 → Verifique se o caminho em **Vinculador → Diretórios de Biblioteca** está correto e aponta para a pasta `x64`.
